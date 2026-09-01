@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "12.0"
+  version: "12.2.2"
 
 package:
   name: pyobjc-framework-uniformtypeidentifiers
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pyobjc_framework_uniformtypeidentifiers/pyobjc_framework_uniformtypeidentifiers-${{ version }}.tar.gz
-  sha256: f7fe17832de25098b9ad7718af536f6f4597985418d9869946cee104e2782b8a
+  sha256: 12f8ba77dcc949ffb9f0f48743cae326aebec8e69cb1ac55a1d1e04dca7bd59a
 
 build:
   number: 0
